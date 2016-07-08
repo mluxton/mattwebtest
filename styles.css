@@ -1,0 +1,82 @@
+body {
+    background-color: darkblue;
+    scrollbar-face-color: #666699; 
+    scrollbar-shadow-color: black; 
+    scrollbar-highlight-color: #666699; 
+    scrollbar-3dlight-color: white; 
+    scrollbar-darkshadow-color: white; 
+    scrollbar-track-color: #9999CC; 
+    scrollbar-arrow-color: orange;    
+}
+
+A:Link { 
+    text-decoration: none; 
+}
+
+A:Visited { 
+    text-decoration: none; 
+}
+
+A:Hover {
+    text-decoration: none;
+    color: red;
+}
+
+div,span,ul,li,td,select,input {
+    font: medium Arial; 
+}
+
+img {
+    border 0px;
+}
+
+table.Main {
+    border: 5px solid black;
+}
+
+td.banner {
+    background-color: white;
+}
+
+td.bar {
+    background-color: #0000FF;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;    
+    text-decoration: italic;
+    font-size: medium;
+    color: white;
+}
+
+td.Menu {
+    background-color: #E5E5E5;
+    border-right: 2px solid black;    
+}
+
+td.menuItem {
+    border-top: 1px solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
+    padding-Left: 6px;
+    cursor: Hand;    
+}
+
+td.content {
+    background-color: white;
+    padding: 6px;    
+}
+
+td.footerText {
+    font: medium Arial;    
+    color: white;
+}
+
+a.footerLink {
+    color: white;
+}
+
+span.mainHighLight {
+    font: bolder large Arial;
+}
+
+span.highLight {
+    font: bold Large Arial;
+}
